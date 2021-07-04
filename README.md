@@ -1,2 +1,2 @@
-# Neural_Network_charity_Analysis
+# Neural_Network_Charity_Analysis
 M19
