@@ -8,4 +8,4 @@ The purpose of this analysis is to establish neural networks that is capable of 
 ### Data Preprocessing
 - _Q1: What variable(s) are considered the target(s) for your model?_
 
-- A
+A1: Column `IS_SUCCESSFUL` is considered the target for the model.
